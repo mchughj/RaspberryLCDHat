@@ -2,7 +2,7 @@
 
 ![Picture of LCD on top of the PI](/Lcd-On-Pi.jpg)
 
-This is a simple repository to get the Waveshare 1.44 inch LCD Hat working.
+This is a simple repository to get the [Waveshare 1.44 inch LCD Hat](https://www.waveshare.com/wiki/1.44inch_LCD_HAT) working.
 
 ## Configure device
 
